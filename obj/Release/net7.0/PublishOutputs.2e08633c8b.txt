@@ -1,0 +1,6 @@
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\publish\DadJokesCli.exe
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\publish\DadJokesCli.dll
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\publish\DadJokesCli.deps.json
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\publish\DadJokesCli.runtimeconfig.json
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\publish\DadJokesCli.pdb
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\publish\Newtonsoft.Json.dll

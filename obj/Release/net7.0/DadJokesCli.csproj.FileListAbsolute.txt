@@ -1,0 +1,17 @@
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\DadJokesCli.exe
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\DadJokesCli.deps.json
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\DadJokesCli.runtimeconfig.json
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\DadJokesCli.dll
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\DadJokesCli.pdb
+C:\Users\oponce\Documents\testPro\DadJokesCli\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.csproj.AssemblyReference.cache
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.AssemblyInfoInputs.cache
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.AssemblyInfo.cs
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.csproj.CoreCompileInputs.cache
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.csproj.CopyComplete
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.dll
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\refint\DadJokesCli.dll
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.pdb
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\DadJokesCli.genruntimeconfig.cache
+C:\Users\oponce\Documents\testPro\DadJokesCli\obj\Release\net7.0\ref\DadJokesCli.dll
